@@ -1,0 +1,83 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "🚀 ALL",
+      "options": {
+        "statusbar": {
+          "color": "#8500a0"
+        }
+      },
+      "type": "shell",
+      "command": "npx slidev slides.md",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+    },
+    {
+      "label": "🚀devcontainer",
+      "options": {
+        "statusbar": {
+          "color": "#00ff2a"
+        }
+      },
+      "type": "shell",
+      "command": "npx slidev devcontainer.md",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+    },
+    {
+      "label": "🚀githubCopilotDelphi",
+      "options": {
+        "statusbar": {
+          "color": "#00ff2a"
+        }
+      },
+      "type": "shell",
+      "command": "npx slidev githubCopilotDelphi.md",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+    },
+    {
+      "label": "🚀webappLocalization",
+      "options": {
+        "statusbar": {
+          "color": "#00ff2a"
+        }
+      },
+      "type": "shell",
+      "command": "npx slidev webappLocalization.md",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+    },
+    {
+      "label": "🚀msWebUiReact",
+      "options": {
+        "statusbar": {
+          "color": "#00ff2a"
+        }
+      },
+      "type": "shell",
+      "command": "npx slidev msWebUiReact.md",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+    },
+  ],
+  "inputs": [
+    {
+      "id": "password",
+      "description": "enter a password:",
+      "default": "pass",
+      "type": "promptString",
+    },
+  ]
+}
