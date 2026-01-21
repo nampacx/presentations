@@ -5,16 +5,16 @@
   "keywords": [
     "devcontainer"
   ],
-  "homepage": "https://github.com/harrybin/presentations#readme",
+  "homepage": "https://github.com/nampacx/presentations#readme",
   "bugs": {
-    "url": "https://github.com/harrybin/presentations/issues"
+    "url": "https://github.com/nampacx/presentations/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harrybin/presentations.git"
+    "url": "git+https://github.com/nampacx/presentations.git"
   },
   "license": "MIT",
-  "author": "harrybin",
+  "author": "nampacx",
   "scripts": {
     "start": "npx slidev slides.md",
     "build": "./build.sh",

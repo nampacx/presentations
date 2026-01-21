@@ -29,10 +29,4 @@ routeAlias: index
 <br/>
 <br/>
 
-<a href="/devcontainer/" target="_blank">Devcontainer - [DWX Juli 25; MD DevDays Mai 25]</a>
-
-<a href="/webappLocalization/" target="_blank">WebApp-Localization - [DWX Juli 25]</a>
-
-<a href="/githubCopilotDelphi/" target="_blank">GitHub Copilot with Delphi - [EKON Oct 25]</a>
-
-<a href="/msWebUiReact/" target="_blank">Microsoft's Web UI Technology: Is It React? [DDC Nov 25]</a>
+<a href="/powerPlatformPL900/" target="_blank">PL-900 Intro</a>

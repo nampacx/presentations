@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
 {
-	"name": "harrybin-presentations",
+	"name": "nampacx-presentations",
 	// configure the codespaces environment
 	"hostRequirements": {
 		"cpus": 8,
@@ -12,7 +12,7 @@
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-22-bookworm",
 	"runArgs": [
 		"--name",
-		"harrybin-presentations",
+		"nampacx-presentations",
 		"--sysctl", // disable IPv6 as vite server does not support it: workaround for issue with vite in devcontainers: https://github.com/vitejs/vite/issues/16522
 		"net.ipv6.conf.all.disable_ipv6=1"
 	],

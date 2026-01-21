@@ -1,7 +1,7 @@
 # Presentations
 
-This repository contains public presentations created by me, [@harrybin](https://github.com/harrybin).
-The presentations are built using [Slidev](https://sli.dev/) and are available at: [https://presentations.harrybin.dev](https://presentations.harrybin.dev).
+This repository contains public presentations created by me, [@nampacx](https://github.com/nampacx).
+The presentations are built using [Slidev](https://sli.dev/) and are available at: [https://presentations.mikokono.de](https://presentations.mikokono.de).
 
 ## Structure
 

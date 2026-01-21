@@ -9,7 +9,7 @@
 ## Running & building
 
 - Install once with `npm install`, then preview any deck via `npx slidev <deck>.md` (VS Code exposes ready-made tasks for the popular decks). Use `npx slidev slides.md` to test the index site locally.
-- `npm run build` (invokes `build.sh`) requires a bash-compatible shell; it wipes `dist/`, builds the index, then batch-builds every deck so that the static site mirrors production at https://presentations.harrybin.dev.
+- `npm run build` (invokes `build.sh`) requires a bash-compatible shell; it wipes `dist/`, builds the index, then batch-builds every deck so that the static site mirrors production at https://presentations.mikokono.de.
 - Formatting relies on `prettier` plus `prettier-plugin-slidev` (`npm run format`).
 
 ## Authoring slides

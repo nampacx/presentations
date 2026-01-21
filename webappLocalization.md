@@ -567,7 +567,7 @@ level: 2
 
 <!--
 Show:
-- i18nAlly in the react demo app https://github.com/harrybin/react/tree/main
+- i18nAlly in the react demo app https://github.com/nampacx/react/tree/main
   - the features of i18nAlly (list of the slide bfedore this demo)
 - the new translation method
 - the new interfaces I18nTexts, composed from smaller interfaces
